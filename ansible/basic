@@ -1,1 +1,16 @@
+What is ansible?
+It is a configuration management tool used to deploy repetative task using playbooks which has the instruction.
+
+standard defination: Ansible is simple open source IT engine which automates application deployment, infra
+service orchestration, cloud provisioning and many other IT tools
+
+What is Configuration Management
+Configuration management in terms of Ansible means that it maintains configuration of
+the product performance by keeping a record and updating detailed information which
+describes an enterprise’s hardware and software.
+
+Example: 
+  1)If we wanted to patch 100+ server or install  applications with on server it can we done using ansible job in one click. 
+    In order to acheive this we need ansible knowledge. It can help system admin to reslove repectative task on system level.
+
 
